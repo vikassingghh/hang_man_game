@@ -1,0 +1,1 @@
+word_list = ["pen","pencil","eraser","shapner","compass","scale","bag","glue","book","notebook","notes"]
